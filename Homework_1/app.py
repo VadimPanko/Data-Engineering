@@ -12,6 +12,7 @@ import os
 
 
 def app(process_date=None):
+
     if process_date:
         process_date
     else:
